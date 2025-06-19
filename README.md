@@ -90,4 +90,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Author
 
-Created by [Anan Ahmed](https://github.com/Jimmy70707](https://github.com/Anan651).
+Created by [Anan Ahmed](https://github.com/Anan651).
