@@ -65,7 +65,6 @@ blip-vqa-project/
 │-- app.py              # Main application script
 │-- requirements.txt    # Project dependencies
 │-- README.md           # Project documentation
-│-- image.jpg           # Input image (to be provided by the user)
 ```
 
 ## Example Output
@@ -91,4 +90,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Author
 
-Created by [Muhammed Gamal](https://github.com/Jimmy70707).
+Created by [Anan Ahmed](https://github.com/Jimmy70707](https://github.com/Anan651).
